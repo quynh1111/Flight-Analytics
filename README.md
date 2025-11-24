@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23727624/README.md)
+
 # ✈️ Flight Analytics — Phân tích & Trực quan hóa Dữ liệu Hàng không  
 _(Google Colab + Databricks + FastAPI + MongoDB + ngrok)_
 
@@ -89,6 +89,7 @@ Tích hợp CI/CD & Unit Test cho pipeline
 ### 👤 Tác giả
 Đinh Trọng Quỳnh
 💼 Data Engineer
-📧 dinhtrongquynh240@gmail.com
+Lê Tuấn Dũng
+💼 AI Engineer
 
 ⭐ Nếu bạn thấy dự án hữu ích, hãy để lại một ⭐ trên GitHub nhé!
